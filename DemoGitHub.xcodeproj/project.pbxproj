@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					6D5D046C1DEE06B400EFB0CA = {
 						CreatedOnToolsVersion = 8.1;
+						DevelopmentTeam = Y7XR9L7W6S;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -260,6 +261,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = Y7XR9L7W6S;
 				INFOPLIST_FILE = DemoGitHub/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.indcoders.DemoGitHub;
@@ -272,6 +274,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = Y7XR9L7W6S;
 				INFOPLIST_FILE = DemoGitHub/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.indcoders.DemoGitHub;
